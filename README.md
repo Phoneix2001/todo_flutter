@@ -1,9 +1,9 @@
-📋 Todo App 📝 (Flutter + Hive)
-A minimalist and lightweight Todo App built with Flutter, featuring:\n
-✅ Persistent storage using Hive\n
-✅ Random colors for each task\n
-✅ Task completion tracking\n
-✅ Modern & Clean UI\n\n
+📋 Todo App 📝 (Flutter + Hive)<br>
+A minimalist and lightweight Todo App built with Flutter, featuring:<br>
+✅ Persistent storage using Hive<br>
+✅ Random colors for each task<br>
+✅ Task completion tracking<br>
+✅ Modern & Clean UI<br>
 
 🚀 Features
 ✅ Add Todos → Create tasks with a random light color
