@@ -18,10 +18,10 @@ A minimalist and lightweight Todo App built with Flutter, featuring:<br>
 <img src="assets/images/home_screen_empty.png" width="300">
 
 ### ✅ TODO add Screen
-![TODO add Screen](assets/images/todo_add_screen.png)
+<img src="assets/images/todo_add_screen.png" width="300">
 
 ### ✅ Home Screen
-![Home Screen](assets/images/home_screen.png)
+<img src="assets/images/home_screen.png" width="300">
 
 
 ## 🛠 Future Improvements<br><br>
