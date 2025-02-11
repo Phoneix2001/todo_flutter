@@ -1,18 +1,30 @@
-# todoapp
+📋 Todo App 📝 (Flutter + Hive)
+A minimalist and lightweight Todo App built with Flutter, featuring:
+✅ Persistent storage using Hive
+✅ Random colors for each task
+✅ Task completion tracking
+✅ Modern & Clean UI
 
-A new Flutter project.
+🚀 Features
+✅ Add Todos → Create tasks with a random light color
+✅ Mark as Done → Tap to complete (strikethrough effect)
+✅ Delete Todos → Remove tasks easily
+✅ Persistent Storage → Uses Hive for local storage
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Home Screen Empty
+![Home Screen Empty](assets/images/home_screen_empty.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ✅ TODO add Screen
+![TODO add Screen](assets/images/todo_add_screen.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# todo_flutter
-# todo_flutter
+### ✅ Home Screen
+![Home Screen](assets/images/home_screen.png)
+
+
+🛠 Future Improvements
+🔹 Add animations for task completion
+🔹 Implement dark mode
+🔹 Sync data with Firebase
